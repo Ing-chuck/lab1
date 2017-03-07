@@ -1,0 +1,18 @@
+Script started on 2017年03月07日 (週二) 18時53分07秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m ls
+lab1.script  [0m[01;32mpartb[0m  partb.cpp  partb.script  README.md
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m /[K./partb
+Enter an integer: 22
+
+22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m ./partb
+Enter an integer: 37
+
+37 112 56 28 14 7 22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m ./partb
+Enter an integer: 1
+
+1
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m exit
+
+Script done on 2017年03月07日 (週二) 18時53分53秒
